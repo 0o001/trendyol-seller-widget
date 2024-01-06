@@ -10,3 +10,5 @@ Once the script and styles are added to your project, the widget will automatica
 <div class="trendyol-seller-profile" seller-id="112044"></div>
 <script src="https://cdn.jsdelivr.net/gh/0o001/trendyol-seller-widget@main/index.js"></script>
 ```
+## Screenshots
+<img width="320" alt="image" src="https://github.com/0o001/trendyol-seller-widget/assets/4294069/b67feb8e-829d-450b-8787-e98f1dd6f01f">
